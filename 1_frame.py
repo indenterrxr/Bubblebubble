@@ -18,3 +18,5 @@ while running:
 
 
 pygame.quit()
+
+# 수정
